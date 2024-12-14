@@ -1,6 +1,6 @@
 # focusme
 
-🎯 A simple AppleScript utility that hides all inactive windows, leaving only your currently active window visible. Perfect for minimizing distractions and maintaining focus during work sessions.
+🎯 A simple AppleScript utility that hides all inactive windows, leaving only your currently active window (the last application you clicked) visible. Perfect for minimizing distractions and maintaining focus during work sessions.
 
 ## Features
 - Single-click window management
