@@ -20,9 +20,10 @@
 ### Method 2: Export as Application
 #### Option A: Using Script Editor
 1. Open Script Editor
-2. Go to File > Export
-3. Choose "Application" as File Format
-4. Save your app
+2. Copy and paste the script code
+3. Go to File > Export
+4. Choose "Application" as File Format
+5. Save your app
    
 ⚠️ **Important Note about Permissions:**
 
@@ -38,7 +39,7 @@ To resolve this:
 - If you don't have a Developer certificate, it's recommended to use Method 1 or Option B below
 
 #### Option B: Using Script Debugger (Alternative)
-1. Use Script Debugger (third-party app)
+1. [Script Debugger](https://latenightsw.com/) (third-party app)
 2. Export as application
 3. Run directly without code signing issues
 
