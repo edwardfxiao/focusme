@@ -41,7 +41,7 @@ To resolve this:
 #### Option B: Using Script Debugger (Alternative)
 1. [Script Debugger](https://latenightsw.com/) (third-party app)
 2. Copy and paste the script code
-3. Save as application
+3. Save A Copy As -> application
 4. Run directly without code signing issues
 
 Perfect for developers, writers, and anyone seeking a cleaner workspace on macOS.
